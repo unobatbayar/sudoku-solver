@@ -1,3 +1,3 @@
 # sudoku-solver
 # Adam Daod
-cross-platform sudoku solving application
+Cross-platform sudoku solving application
