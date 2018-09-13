@@ -1,2 +1,2 @@
-# sudoku-solver
-Cross-platform sudoku solving application by Adam Daod 
+# sudokusolver
+Cross-platform sudoku solving application 
