@@ -1,2 +1,2 @@
 # sudokusolver
-Cross-platform sudoku solving application 
+cross-platform sudoku solver app using C# on Xamarin Forms 
