@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:sudokusolver" x:Class="sudokusolver.MainPage">
+    <StackLayout>
+
+        
+       <Label Text="sudokusolver" Font="Bold, Large" TextColor="Accent" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+
+  <Grid HorizontalOptions="Center" VerticalOptions="Center">
+  <Grid.RowDefinitions>
+    <RowDefinition Height="*" />
+    <RowDefinition Height="*" />
+  </Grid.RowDefinitions>
+  <Grid.ColumnDefinitions>
+    <ColumnDefinition Width="*"/>
+    <ColumnDefinition Width="*"/>
+  </Grid.ColumnDefinitions>
+  <Entry Text="1" Grid.Row="0" Grid.Column="0" />
+  <Entry Text="2" Grid.Row="0" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="0" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="0" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="0" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="0" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="0" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="0" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="0" Grid.Column="8" />
+            
+  <Entry Text="1" Grid.Row="1" Grid.Column="0" />   
+  <Entry Text="2" Grid.Row="1" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="1" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="1" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="1" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="1" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="1" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="1" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="1" Grid.Column="8" />
+
+  <Entry Text="1" Grid.Row="2" Grid.Column="0" />
+  <Entry Text="2" Grid.Row="2" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="2" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="2" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="2" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="2" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="2" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="2" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="2" Grid.Column="8" />
+            
+  <Entry Text="1" Grid.Row="3" Grid.Column="0" />
+  <Entry Text="2" Grid.Row="3" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="3" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="3" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="3" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="3" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="3" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="3" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="3" Grid.Column="8" />
+            
+  <Entry Text="1" Grid.Row="4" Grid.Column="0" />   
+  <Entry Text="2" Grid.Row="4" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="4" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="4" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="4" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="4" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="4" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="4" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="4" Grid.Column="8" />
+            
+  <Entry Text="1" Grid.Row="5" Grid.Column="0" />   
+  <Entry Text="2" Grid.Row="5" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="5" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="5" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="5" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="5" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="5" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="5" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="5" Grid.Column="8" />
+
+  <Entry Text="1" Grid.Row="6" Grid.Column="0" />   
+  <Entry Text="2" Grid.Row="6" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="6" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="6" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="6" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="6" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="6" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="6" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="6" Grid.Column="8" />
+
+  <Entry Text="1" Grid.Row="7" Grid.Column="0" />   
+  <Entry Text="2" Grid.Row="7" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="7" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="7" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="7" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="7" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="7" Grid.Column="6" />
+  <Entry Text="8" Grid.Row="7" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="7" Grid.Column="8" />
+            
+  <Entry Text="1" Grid.Row="8" Grid.Column="0" />   
+  <Entry Text="2" Grid.Row="8" Grid.Column="1" />
+  <Entry Text="3" Grid.Row="8" Grid.Column="2" />
+  <Entry Text="4" Grid.Row="8" Grid.Column="3" />
+  <Entry Text="5" Grid.Row="8" Grid.Column="4" />
+  <Entry Text="6" Grid.Row="8" Grid.Column="5" />
+  <Entry Text="7" Grid.Row="8" Grid.Column="6" />
+  <Entry x:Name="eighty" Text="8" Grid.Row="8" Grid.Column="7" />
+  <Entry Text="9" Grid.Row="8" Grid.Column="8" />
+            
+     
+         
+</Grid>
+
+
+
+     <Button Pressed="Handle_Pressed" Text="SOLVE" FontSize="Medium" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+        
+
+    </StackLayout>
+</ContentPage>
+

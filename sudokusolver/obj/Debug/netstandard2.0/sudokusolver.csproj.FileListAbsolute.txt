@@ -1,0 +1,9 @@
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/bin/Debug/netstandard2.0/sudokusolver.deps.json
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/bin/Debug/netstandard2.0/sudokusolver.dll
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/bin/Debug/netstandard2.0/sudokusolver.pdb
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj/Debug/netstandard2.0/sudokusolver.csprojResolveAssemblyReference.cache
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj/Debug/netstandard2.0/sudokusolver.csproj.CoreCompileInputs.cache
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj/Debug/netstandard2.0/sudokusolver.AssemblyInfoInputs.cache
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj/Debug/netstandard2.0/sudokusolver.AssemblyInfo.cs
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj/Debug/netstandard2.0/sudokusolver.dll
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj/Debug/netstandard2.0/sudokusolver.pdb
