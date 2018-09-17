@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8FF39690-9ED9-4893-B83F-79C369581DEB}|Default">
+  <MonoDevelop.Ide.ItemProperties.sudokusolver.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sudokusolver/MainPage.xaml.cs">
+    <Files>
+      <File FileName="sudokusolver/MainPage.xaml" Line="113" Column="35" />
+      <File FileName="sudokusolver/MainPage.xaml.cs" Line="41" Column="38" />
+      <File FileName="sudokusolver/Sudoku.cs" Line="184" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sudokusolver.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21622184-0096-4A81-AF33-C84451311444" />
+  <MultiItemStartupConfigurations />
+</Properties>

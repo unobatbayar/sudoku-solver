@@ -10,4 +10,7 @@
   <ItemGroup>
     <Compile Remove="SudokuPage.xaml.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="SudokuPage.xaml" />
+  </ItemGroup>
 </Project>

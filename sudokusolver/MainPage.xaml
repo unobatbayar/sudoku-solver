@@ -14,95 +14,95 @@
     <ColumnDefinition Width="*"/>
     <ColumnDefinition Width="*"/>
   </Grid.ColumnDefinitions>
-  <Entry Text="1" Grid.Row="0" Grid.Column="0" />
-  <Entry Text="2" Grid.Row="0" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="0" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="0" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="0" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="0" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="0" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="0" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="0" Grid.Column="8" />
+  <Entry Text="1" x:Name="Maa" Grid.Row="0" Grid.Column="0" />
+  <Entry Text="2" x:Name="Mab" Grid.Row="0" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mac" Grid.Row="0" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mad" Grid.Row="0" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mae" Grid.Row="0" Grid.Column="4" />
+  <Entry Text="6" x:Name="Maf" Grid.Row="0" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mag" Grid.Row="0" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mah" Grid.Row="0" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mai" Grid.Row="0" Grid.Column="8" />
             
-  <Entry Text="1" Grid.Row="1" Grid.Column="0" />   
-  <Entry Text="2" Grid.Row="1" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="1" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="1" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="1" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="1" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="1" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="1" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="1" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mba" Grid.Row="1" Grid.Column="0" />   
+  <Entry Text="2" x:Name="Mbb" Grid.Row="1" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mbc" Grid.Row="1" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mbd" Grid.Row="1" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mbe" Grid.Row="1" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mbf" Grid.Row="1" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mbg" Grid.Row="1" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mbh" Grid.Row="1" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mbi" Grid.Row="1" Grid.Column="8" />
 
-  <Entry Text="1" Grid.Row="2" Grid.Column="0" />
-  <Entry Text="2" Grid.Row="2" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="2" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="2" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="2" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="2" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="2" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="2" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="2" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mca" Grid.Row="2" Grid.Column="0" />
+  <Entry Text="2" x:Name="Mcb" Grid.Row="2" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mcc" Grid.Row="2" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mcd" Grid.Row="2" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mce" Grid.Row="2" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mcf" Grid.Row="2" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mcg" Grid.Row="2" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mch" Grid.Row="2" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mci" Grid.Row="2" Grid.Column="8" />
             
-  <Entry Text="1" Grid.Row="3" Grid.Column="0" />
-  <Entry Text="2" Grid.Row="3" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="3" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="3" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="3" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="3" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="3" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="3" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="3" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mda" Grid.Row="3" Grid.Column="0" />
+  <Entry Text="2" x:Name="Mdb" Grid.Row="3" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mdc" Grid.Row="3" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mdd" Grid.Row="3" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mde" Grid.Row="3" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mdf" Grid.Row="3" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mdg" Grid.Row="3" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mdh" Grid.Row="3" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mdi" Grid.Row="3" Grid.Column="8" />
             
-  <Entry Text="1" Grid.Row="4" Grid.Column="0" />   
-  <Entry Text="2" Grid.Row="4" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="4" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="4" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="4" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="4" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="4" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="4" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="4" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mea" Grid.Row="4" Grid.Column="0" />   
+  <Entry Text="2" x:Name="Meb" Grid.Row="4" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mec" Grid.Row="4" Grid.Column="2" />
+  <Entry Text="4" x:Name="Med" Grid.Row="4" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mee" Grid.Row="4" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mef" Grid.Row="4" Grid.Column="5" />
+  <Entry Text="7" x:Name="Meg" Grid.Row="4" Grid.Column="6" />
+  <Entry Text="8" x:Name="Meh" Grid.Row="4" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mei" Grid.Row="4" Grid.Column="8" />
             
-  <Entry Text="1" Grid.Row="5" Grid.Column="0" />   
-  <Entry Text="2" Grid.Row="5" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="5" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="5" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="5" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="5" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="5" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="5" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="5" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mfa" Grid.Row="5" Grid.Column="0" />   
+  <Entry Text="2" x:Name="Mfb" Grid.Row="5" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mfc" Grid.Row="5" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mfd" Grid.Row="5" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mfe" Grid.Row="5" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mff" Grid.Row="5" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mfg" Grid.Row="5" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mfh" Grid.Row="5" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mfi" Grid.Row="5" Grid.Column="8" />
 
-  <Entry Text="1" Grid.Row="6" Grid.Column="0" />   
-  <Entry Text="2" Grid.Row="6" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="6" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="6" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="6" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="6" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="6" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="6" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="6" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mga" Grid.Row="6" Grid.Column="0" />   
+  <Entry Text="2" x:Name="Mgb" Grid.Row="6" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mgc" Grid.Row="6" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mgd" Grid.Row="6" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mge" Grid.Row="6" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mgf" Grid.Row="6" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mgg" Grid.Row="6" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mgh" Grid.Row="6" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mgi" Grid.Row="6" Grid.Column="8" />
 
-  <Entry Text="1" Grid.Row="7" Grid.Column="0" />   
-  <Entry Text="2" Grid.Row="7" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="7" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="7" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="7" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="7" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="7" Grid.Column="6" />
-  <Entry Text="8" Grid.Row="7" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="7" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mha" Grid.Row="7" Grid.Column="0" />   
+  <Entry Text="2" x:Name="Mhb" Grid.Row="7" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mhc" Grid.Row="7" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mhd" Grid.Row="7" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mhe" Grid.Row="7" Grid.Column="4" />
+  <Entry Text="6" x:Name="Mhf" Grid.Row="7" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mhg" Grid.Row="7" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mhh" Grid.Row="7" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mhi" Grid.Row="7" Grid.Column="8" />
             
-  <Entry Text="1" Grid.Row="8" Grid.Column="0" />   
-  <Entry Text="2" Grid.Row="8" Grid.Column="1" />
-  <Entry Text="3" Grid.Row="8" Grid.Column="2" />
-  <Entry Text="4" Grid.Row="8" Grid.Column="3" />
-  <Entry Text="5" Grid.Row="8" Grid.Column="4" />
-  <Entry Text="6" Grid.Row="8" Grid.Column="5" />
-  <Entry Text="7" Grid.Row="8" Grid.Column="6" />
-  <Entry x:Name="eighty" Text="8" Grid.Row="8" Grid.Column="7" />
-  <Entry Text="9" Grid.Row="8" Grid.Column="8" />
+  <Entry Text="1" x:Name="Mia" Grid.Row="8" Grid.Column="0" />   
+  <Entry Text="2" x:Name="Mib" Grid.Row="8" Grid.Column="1" />
+  <Entry Text="3" x:Name="Mic" Grid.Row="8" Grid.Column="2" />
+  <Entry Text="4" x:Name="Mid" Grid.Row="8" Grid.Column="3" />
+  <Entry Text="5" x:Name="Mie" Grid.Row="8" Grid.Column="4" />
+  <Entry Text="6" x:Name="Miif" Grid.Row="8" Grid.Column="5" />
+  <Entry Text="7" x:Name="Mig" Grid.Row="8" Grid.Column="6" />
+  <Entry Text="8" x:Name="Mih" Grid.Row="8" Grid.Column="7" />
+  <Entry Text="9" x:Name="Mii" Grid.Row="8" Grid.Column="8" />
             
      
          
@@ -110,7 +110,7 @@
 
 
 
-     <Button Pressed="Handle_Pressed" Text="SOLVE" FontSize="Medium" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+     <Button Pressed="Solve_Sudoku" Text="SOLVE" FontSize="Medium" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
         
 
     </StackLayout>

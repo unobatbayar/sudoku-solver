@@ -47,9 +47,9 @@
 /Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/sudokusolver.iOS.csproj.CoreCompileInputs.cache
 /Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/sudokusolver.iOS.exe
 /Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/sudokusolver.iOS.pdb
-/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/actool/_PartialAppManifest.items
-/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/actool/_BundleResourceWithLogicalName.items
-/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/coremlc/_PartialAppManifest.items
-/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/optimized/
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
