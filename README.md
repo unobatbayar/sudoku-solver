@@ -1,2 +1,3 @@
 # sudokusolver
-Cross-platform sudoku solving application 
+cross-platform xamarin forms sudoku solving application which uses backtrack algorithm. 
+
