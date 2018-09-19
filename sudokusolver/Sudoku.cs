@@ -41,28 +41,9 @@ namespace sudokusolver
             Console.WriteLine("stop");
         }
 
-        int[][] updateSudokuGrid()
+        public int[][] getSudokuGrid()
         {
-            Int32[][] solvedPuzzle = new int[][] {
-                new int[]{5,3,0,0,7,0,0,0,0},
-                new int[]{6,0,0,1,9,5,0,0,0},
-                new int[]{0,9,8,0,0,0,0,6,0},
-                new int[]{8,0,0,0,6,0,0,0,3},
-                new int[]{4,0,0,8,0,3,0,0,1},
-                new int[]{7,0,0,0,2,0,0,0,6},
-                new int[]{0,6,0,0,0,0,2,8,0},
-                new int[]{0,0,0,4,1,9,0,0,5},
-                new int[]{0,0,0,0,8,0,0,7,9}};
-
-            for (int x = 0; x < rows.Length; x++)
-            {
-                for (int y = 0; y < rows[x].Length; y++)
-                {
-                    solvedPuzzle[x][y] = rows[x][y];
-                }
-            }
-
-            return solvedPuzzle;
+            return rows;
         }
 
         public void printSudoku()

@@ -19,17 +19,113 @@ namespace sudokusolver
         {
             Sudoku sudoku = new Sudoku(Grid_toInt());
             sudoku.solveSudoku();
-            updateGrid();
-
+            int[][] solvedSudokuGrid = sudoku.getSudokuGrid();
+            updateGrid(solvedSudokuGrid);
         }
 
-        void updateGrid(){
+        void updateGrid(int[][] solvedSudokuGrid){
+            
+            Maa.Text = System.Convert.ToString(solvedSudokuGrid[0][0]);
+            Mab.Text = System.Convert.ToString(solvedSudokuGrid[0][1]);
+            Mac.Text = System.Convert.ToString(solvedSudokuGrid[0][2]);
+            Mad.Text = System.Convert.ToString(solvedSudokuGrid[0][3]);
+            Mae.Text = System.Convert.ToString(solvedSudokuGrid[0][4]);
+            Maf.Text = System.Convert.ToString(solvedSudokuGrid[0][5]);
+            Mag.Text = System.Convert.ToString(solvedSudokuGrid[0][6]);
+            Mah.Text = System.Convert.ToString(solvedSudokuGrid[0][7]);
+            Mai.Text = System.Convert.ToString(solvedSudokuGrid[0][8]);
+
+            Mba.Text = System.Convert.ToString(solvedSudokuGrid[1][0]);
+            Mbb.Text = System.Convert.ToString(solvedSudokuGrid[1][1]);
+            Mbc.Text = System.Convert.ToString(solvedSudokuGrid[1][2]);
+            Mbd.Text = System.Convert.ToString(solvedSudokuGrid[1][3]);
+            Mbe.Text = System.Convert.ToString(solvedSudokuGrid[1][4]);
+            Mbf.Text = System.Convert.ToString(solvedSudokuGrid[1][5]);
+            Mbg.Text = System.Convert.ToString(solvedSudokuGrid[1][6]);
+            Mbh.Text = System.Convert.ToString(solvedSudokuGrid[1][7]);
+            Mbi.Text = System.Convert.ToString(solvedSudokuGrid[1][8]);
+
+            Mca.Text = System.Convert.ToString(solvedSudokuGrid[2][0]);
+            Mcb.Text = System.Convert.ToString(solvedSudokuGrid[2][1]);
+            Mcc.Text = System.Convert.ToString(solvedSudokuGrid[2][2]);
+            Mcd.Text = System.Convert.ToString(solvedSudokuGrid[2][3]);
+            Mce.Text = System.Convert.ToString(solvedSudokuGrid[2][4]);
+            Mcf.Text = System.Convert.ToString(solvedSudokuGrid[2][5]);
+            Mcg.Text = System.Convert.ToString(solvedSudokuGrid[2][6]);
+            Mch.Text = System.Convert.ToString(solvedSudokuGrid[2][7]);
+            Mci.Text = System.Convert.ToString(solvedSudokuGrid[2][8]);
+
+            Mda.Text = System.Convert.ToString(solvedSudokuGrid[3][0]);
+            Mdb.Text = System.Convert.ToString(solvedSudokuGrid[3][1]);
+            Mdc.Text = System.Convert.ToString(solvedSudokuGrid[3][2]);
+            Mdd.Text = System.Convert.ToString(solvedSudokuGrid[3][3]);
+            Mde.Text = System.Convert.ToString(solvedSudokuGrid[3][4]);
+            Mdf.Text = System.Convert.ToString(solvedSudokuGrid[3][5]);
+            Mdg.Text = System.Convert.ToString(solvedSudokuGrid[3][6]);
+            Mdh.Text = System.Convert.ToString(solvedSudokuGrid[3][7]);
+            Mdi.Text = System.Convert.ToString(solvedSudokuGrid[3][8]);
+
+            Mea.Text = System.Convert.ToString(solvedSudokuGrid[4][0]);
+            Meb.Text = System.Convert.ToString(solvedSudokuGrid[4][1]);
+            Mec.Text = System.Convert.ToString(solvedSudokuGrid[4][2]);
+            Med.Text = System.Convert.ToString(solvedSudokuGrid[4][3]);
+            Mee.Text = System.Convert.ToString(solvedSudokuGrid[4][4]);
+            Mef.Text = System.Convert.ToString(solvedSudokuGrid[4][5]);
+            Meg.Text = System.Convert.ToString(solvedSudokuGrid[4][6]);
+            Meh.Text = System.Convert.ToString(solvedSudokuGrid[4][7]);
+            Mei.Text = System.Convert.ToString(solvedSudokuGrid[4][8]);
+
+            Mfa.Text = System.Convert.ToString(solvedSudokuGrid[5][0]);
+            Mfb.Text = System.Convert.ToString(solvedSudokuGrid[5][1]);
+            Mfc.Text = System.Convert.ToString(solvedSudokuGrid[5][2]);
+            Mfd.Text = System.Convert.ToString(solvedSudokuGrid[5][3]);
+            Mfe.Text = System.Convert.ToString(solvedSudokuGrid[5][4]);
+            Mff.Text = System.Convert.ToString(solvedSudokuGrid[5][5]);
+            Mfg.Text = System.Convert.ToString(solvedSudokuGrid[5][6]);
+            Mfh.Text = System.Convert.ToString(solvedSudokuGrid[5][7]);
+            Mfi.Text = System.Convert.ToString(solvedSudokuGrid[5][8]);
+
+            Mga.Text = System.Convert.ToString(solvedSudokuGrid[7][0]);
+            Mgb.Text = System.Convert.ToString(solvedSudokuGrid[7][1]);
+            Mgc.Text = System.Convert.ToString(solvedSudokuGrid[7][2]);
+            Mgd.Text = System.Convert.ToString(solvedSudokuGrid[7][3]);
+            Mge.Text = System.Convert.ToString(solvedSudokuGrid[7][4]);
+            Mgf.Text = System.Convert.ToString(solvedSudokuGrid[7][5]);
+            Mgg.Text = System.Convert.ToString(solvedSudokuGrid[7][6]);
+            Mgh.Text = System.Convert.ToString(solvedSudokuGrid[7][7]);
+            Mgi.Text = System.Convert.ToString(solvedSudokuGrid[7][8]);
+
+            Mha.Text = System.Convert.ToString(solvedSudokuGrid[6][0]);
+            Mhb.Text = System.Convert.ToString(solvedSudokuGrid[6][1]);
+            Mhc.Text = System.Convert.ToString(solvedSudokuGrid[6][2]);
+            Mhd.Text = System.Convert.ToString(solvedSudokuGrid[6][3]);
+            Mhe.Text = System.Convert.ToString(solvedSudokuGrid[6][4]);
+            Mhf.Text = System.Convert.ToString(solvedSudokuGrid[6][5]);
+            Mhg.Text = System.Convert.ToString(solvedSudokuGrid[6][6]);
+            Mhh.Text = System.Convert.ToString(solvedSudokuGrid[6][7]);
+            Mhi.Text = System.Convert.ToString(solvedSudokuGrid[6][8]);
+
+            Mia.Text = System.Convert.ToString(solvedSudokuGrid[8][0]);
+            Mib.Text = System.Convert.ToString(solvedSudokuGrid[8][1]);
+            Mic.Text = System.Convert.ToString(solvedSudokuGrid[8][2]);
+            Mid.Text = System.Convert.ToString(solvedSudokuGrid[8][3]);
+            Mie.Text = System.Convert.ToString(solvedSudokuGrid[8][4]);
+            Miif.Text = System.Convert.ToString(solvedSudokuGrid[8][5]);
+            Mig.Text = System.Convert.ToString(solvedSudokuGrid[8][6]);
+            Mih.Text = System.Convert.ToString(solvedSudokuGrid[8][7]);
+            Mii.Text = System.Convert.ToString(solvedSudokuGrid[8][8]);
 
 
         }
         int[][] Grid_toInt(){
 
-            int aa = System.Convert.ToInt32(Maa.Text);
+            int aa;
+            if(Maa.Text == null){
+                aa = 0;
+            }
+            else{
+                aa = System.Convert.ToInt32(Maa.Text);
+            }
             int ab = System.Convert.ToInt32(Mab.Text);
             int ac = System.Convert.ToInt32(Mac.Text);
             int ad = System.Convert.ToInt32(Mad.Text);
