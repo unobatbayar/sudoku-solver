@@ -115,7 +115,6 @@ namespace sudokusolver
             Mih.Text = System.Convert.ToString(solvedSudokuGrid[8][7]);
             Mii.Text = System.Convert.ToString(solvedSudokuGrid[8][8]);
 
-
         }
         int[][] Grid_toInt(){
 
@@ -123,9 +122,10 @@ namespace sudokusolver
             if(Maa.Text == null){
                 aa = 0;
             }
-            else{
+            else {
                 aa = System.Convert.ToInt32(Maa.Text);
             }
+
             int ab = System.Convert.ToInt32(Mab.Text);
             int ac = System.Convert.ToInt32(Mac.Text);
             int ad = System.Convert.ToInt32(Mad.Text);
