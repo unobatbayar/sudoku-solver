@@ -2,7 +2,7 @@
 cross-platform xamarin forms sudoku solving application which uses backtrack algorithm. 
 
                                     emtpy squares are regarded as 0 
-![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/one.png) ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/c.png)
+![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/one.png) 
 
                                     we put world's hardest sudoku as example
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/c.png)
