@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{8FF39690-9ED9-4893-B83F-79C369581DEB}|Default">
   <MonoDevelop.Ide.ItemProperties.sudokusolver.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sudokusolver/Sudoku.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sudokusolver/MainPage.xaml">
     <Files>
-      <File FileName="sudokusolver/MainPage.xaml" Line="119" Column="1" />
-      <File FileName="sudokusolver/MainPage.xaml.cs" Line="24" Column="10" />
-      <File FileName="sudokusolver/Sudoku.cs" Line="99" Column="41" />
+      <File FileName="sudokusolver/MainPage.xaml" Line="114" Column="9" />
+      <File FileName="sudokusolver/MainPage.xaml.cs" Line="129" Column="55" />
+      <File FileName="sudokusolver/Sudoku.cs" Line="124" Column="47" />
       <File FileName="sudokusolver.iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

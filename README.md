@@ -1,5 +1,5 @@
 # sudokusolver
 cross-platform xamarin forms sudoku solving application which uses backtrack algorithm. 
 
-Credits:
-Adam Daod (@doa25)
+![alt text](https://github.com/unobatbayar/One-Program-A-Day-365-Days/blob/master/Images/preview.png)
+
