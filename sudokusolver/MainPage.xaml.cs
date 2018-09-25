@@ -118,14 +118,7 @@ namespace sudokusolver
         }
         int[][] Grid_toInt(){
 
-            int aa;
-            if(Maa.Text == null){
-                aa = 0;
-            }
-            else {
-                aa = System.Convert.ToInt32(Maa.Text);
-            }
-
+            int aa = System.Convert.ToInt32(Maa.Text);
             int ab = System.Convert.ToInt32(Mab.Text);
             int ac = System.Convert.ToInt32(Mac.Text);
             int ad = System.Convert.ToInt32(Mad.Text);
