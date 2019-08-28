@@ -2,17 +2,32 @@
   <MonoDevelop.Ide.ItemProperties.sudokusolver.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
   <MonoDevelop.Ide.Workbench ActiveDocument="sudokusolver/MainPage.xaml">
     <Files>
-      <File FileName="sudokusolver/MainPage.xaml" Line="114" Column="9" />
-      <File FileName="sudokusolver/MainPage.xaml.cs" Line="129" Column="55" />
-      <File FileName="sudokusolver/Sudoku.cs" Line="124" Column="47" />
+      <File FileName="sudokusolver/MainPage.xaml" Line="30" Column="63" />
+      <File FileName="sudokusolver/MainPage.xaml.cs" Line="23" Column="42" />
+      <File FileName="sudokusolver/Sudoku.cs" Line="27" Column="46" />
       <File FileName="sudokusolver.iOS/Main.cs" Line="17" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sudokusolver" expanded="True">
+            <Node name="sudokusolver" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="sudokusolver.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sudokusolver.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.16AF8BF4-1D2E-45F3-99DD-41C4AB18B6B4" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.sudokusolver.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21622184-0096-4A81-AF33-C84451311444" />
   <MultiItemStartupConfigurations />
 </Properties>

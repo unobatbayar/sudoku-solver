@@ -3,7 +3,7 @@
     <StackLayout>
 
         
-       <Label Text="sudokusolver" Font="Bold, Large" TextColor="Accent" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+       <Label Text="Sudoku Solver &#13; unobatbayar" Font="Bold, Large" TextColor="Black" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
 
   <Grid HorizontalOptions="Center" VerticalOptions="Center">
   <Grid.RowDefinitions>
@@ -110,8 +110,7 @@
 
 
 
-     <Button Pressed="Solve_Sudoku" Text="SOLVE" FontSize="Medium" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
-        
+     <Button Pressed="Solve_Sudoku" TextColor="Black" Text="SOLVE" FontSize="Medium" Font="Bold" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
 
     </StackLayout>
 </ContentPage>

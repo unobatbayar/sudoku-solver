@@ -11,7 +11,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.1": {
+      "NETStandard.Library/2.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -59,14 +59,15 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.1": {
-      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+    "NETStandard.Library/2.0.2": {
+      "sha512": "5hB7QTrTeMzV5xnTH4+zNBOGCD5/DcSVb3iPGgyta4Xje5AI2gJoeLnArlQCzxTbRVpx8YrjnjAmUhkxjbd2ZA==",
       "type": "package",
-      "path": "netstandard.library/2.0.1",
+      "path": "netstandard.library/2.0.2",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
         "build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll",
         "build/netstandard2.0/ref/System.AppContext.dll",
@@ -183,7 +184,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.1.nupkg.sha512",
+        "netstandard.library.2.0.2.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -327,28 +328,24 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.1",
+      "NETStandard.Library >= 2.0.2",
       "Xamarin.Forms >= 3.0.0.446417"
     ]
   },
   "packageFolders": {
-    "/Users/raxperryli/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/unobatbayar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver/sudokusolver.csproj",
+      "projectUniqueName": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver/sudokusolver.csproj",
       "projectName": "sudokusolver",
-      "projectPath": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver/sudokusolver.csproj",
-      "packagesPath": "/Users/raxperryli/.nuget/packages/",
-      "outputPath": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver/obj",
+      "projectPath": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver/sudokusolver.csproj",
+      "packagesPath": "/Users/unobatbayar/.nuget/packages/",
+      "outputPath": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/raxperryli/.config/NuGet/NuGet.Config"
+        "/Users/unobatbayar/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -373,12 +370,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1",
+            "version": "[2.0.2, )",
             "autoReferenced": true
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.446417"
+            "version": "[3.0.0.446417, )"
           }
         },
         "imports": [

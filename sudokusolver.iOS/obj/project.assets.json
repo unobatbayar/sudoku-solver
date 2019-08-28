@@ -705,19 +705,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/raxperryli/.nuget/packages/": {}
+    "/Users/unobatbayar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/sudokusolver.iOS.csproj",
+      "projectUniqueName": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver.iOS/sudokusolver.iOS.csproj",
       "projectName": "sudokusolver.iOS",
-      "projectPath": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/sudokusolver.iOS.csproj",
-      "packagesPath": "/Users/raxperryli/.nuget/packages/",
-      "outputPath": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver.iOS/obj",
+      "projectPath": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver.iOS/sudokusolver.iOS.csproj",
+      "packagesPath": "/Users/unobatbayar/.nuget/packages/",
+      "outputPath": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver.iOS/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/raxperryli/.config/NuGet/NuGet.Config"
+        "/Users/unobatbayar/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -728,8 +729,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/raxperryli/Desktop/sudokusolver/sudokusolver/sudokusolver.csproj": {
-              "projectPath": "/Users/raxperryli/Desktop/sudokusolver/sudokusolver/sudokusolver.csproj"
+            "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver/sudokusolver.csproj": {
+              "projectPath": "/Users/unobatbayar/Desktop/SudokuSolver-iOS-Android-Windows/sudokusolver/sudokusolver.csproj"
             }
           }
         }
@@ -740,7 +741,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.446417"
+            "version": "[3.0.0.446417, )"
           }
         }
       }
