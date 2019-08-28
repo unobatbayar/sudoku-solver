@@ -8,5 +8,5 @@ Cross-platform Xamarin Forms (C#) Sudoku Solver App that solves Sudoku with Back
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/hardest_problem.png){:height="700px" width="400px"}
 
                                     Press solve and get the answer
-![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/solved.png){:height="700px" width="400px"}
+![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/solved.png){:height="50%" width="50%"}
 
