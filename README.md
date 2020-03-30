@@ -13,13 +13,13 @@
 ## Screenshots
 <div align="center">
 
-                                    <p> Emtpy squares are regarded as 0 </p>
+<p> Emtpy squares are regarded as 0 </p>
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/initial.png)
 
-                                   <p> We put world's hardest sudoku as example </p>
+<p> We put world's hardest sudoku as example </p>
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/hardest_problem.png)
 
-                                  <p> Press solve and get the answer </p>
+<p> Press solve and get the answer </p>
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/solved.png)
 
 </div>
