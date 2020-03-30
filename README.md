@@ -11,7 +11,6 @@
 </div>
 
 ## Screenshots
-<div align="center">
                                     Emtpy squares are regarded as 0 
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/initial.png)
 
@@ -20,4 +19,4 @@
 
                                     Press solve and get the answer
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/solved.png)
-</div>
+
