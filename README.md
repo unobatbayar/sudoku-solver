@@ -11,12 +11,15 @@
 </div>
 
 ## Screenshots
-                                    Emtpy squares are regarded as 0 
+<div align="center">
+
+                                    <p> Emtpy squares are regarded as 0 </p>
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/initial.png)
 
-                                    We put world's hardest sudoku as example
+                                   <p> We put world's hardest sudoku as example </p>
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/hardest_problem.png)
 
-                                    Press solve and get the answer
+                                  <p> Press solve and get the answer </p>
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/solved.png)
 
+</div>
