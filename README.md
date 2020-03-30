@@ -1,6 +1,16 @@
-# SudokuSolver
-Cross-platform Xamarin Forms (C#) Sudoku Solver App that solves Sudoku with Backtracking Algorithm
+<div align="center">
+  <h1><code>sudoku-solver</code></h1>
 
+  <strong>Cross-platform Xamarin Forms (C#) Sudoku Solver App using Backtracking algorithm</strong>
+
+<h3>
+    <a href="https://github.com/unobatbayar/sudoku-solver/pull/new/master">Contribute</a>
+  </h3>
+
+  <sub> Built with ❤️️ by <a href="https://www.twitter.com/unobatbayar">unobatbayar</sub>
+</div>
+
+## Screenshots
                                     Emtpy squares are regarded as 0 
 ![alt text](https://github.com/unobatbayar/sudokusolver/blob/master/readme-images/initial.png)
 
