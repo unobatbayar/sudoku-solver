@@ -1,7 +1,7 @@
 <div align="center">
   <h1><code>sudoku-solver</code></h1>
 
-  <strong>Cross-platform Xamarin Forms (C#) Sudoku Solver App using Backtracking algorithm</strong>
+  <strong>Cross-platform xamarin forms (C#) sudoku solving application that uses backtracking algorithm.</strong>
 
 <h3>
     <a href="https://github.com/unobatbayar/sudoku-solver/pull/new/master">Contribute</a>
