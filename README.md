@@ -10,7 +10,7 @@
   <sub> Built by <a href="https://www.twitter.com/unobatbayar">unobatbayar </a> and <a href="https://github.com/DOA25">doa25</a> to expand project base.</sub>
 </div>
 
-## Screenshots
+## Demo
 <div align="center">
 
 Emtpy squares are regarded as 0  
