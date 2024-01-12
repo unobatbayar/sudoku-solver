@@ -7,7 +7,7 @@
     <a href="https://github.com/unobatbayar/sudoku-solver/pull/new/master">Contribute</a>
   </h3>
 
-  <sub> Built by <a href="https://github.com/DOA25">doa25</a>.</sub>
+  <sub> Built by <a href="https://github.com/DOA25">DOA25</a>.</sub>
 </div>
 
 ## Demo
